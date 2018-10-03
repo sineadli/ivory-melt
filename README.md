@@ -1,2 +1,2 @@
 # ivory-melt
-For Mx. Collins' class.
+For Mx. Collins' AP Computer Science Principles class.
